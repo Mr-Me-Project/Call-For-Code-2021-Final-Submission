@@ -76,11 +76,11 @@ The project currently does the following things.
 - Feature 1 : Mr.ME dashboard implemented in Node RED shows the data retreived from AutoAI experiment model.
 - Feature 2 : Mr.ME chatbot implemented in Watson assistant guides the user with application details.
 
-It's in a free tier IBM Cloud Iot platform with limites features. In the future we plan to , for example.
+It's in a free tier IBM Cloud Iot platform with limited features. In the future we plan to implement with Global real time data with more features, for example, access real time data in Bot with IBm Discovery; Consider several features in determination of carbon emission for all Global entities.
 
 See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
-![Roadmap](./images/roadmap.jpg)
+![Mr ME Project Roadmap](https://user-images.githubusercontent.com/87765430/127739075-237a2614-a6ae-4d54-85ff-7e4faeeecb34.jpeg)
 
 ## Getting started
 
