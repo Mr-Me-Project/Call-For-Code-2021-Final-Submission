@@ -120,8 +120,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-![Christy Nachiar-Photo](https://user-images.githubusercontent.com/87765430/127739601-4d74aa84-013e-4b31-94f9-364d3f120554.jpg)
-
+![Authors](https://user-images.githubusercontent.com/87765430/127740624-fc42dc99-a7a8-4b95-887f-4911994390fd.png)
 
 ## License
 
