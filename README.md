@@ -47,7 +47,7 @@ https://youtu.be/irkRMdwoeeE
 
 ## The architecture
 
-![Mr ME Architecture Diagram](https://user-images.githubusercontent.com/87765430/127738448-e83afdbe-7d18-447c-9922-17d77ff800a4.png)
+![Mr ME Architecture Diagram - New JPEG](https://user-images.githubusercontent.com/87765430/127744437-9304e658-1d0a-45be-bb5b-8a5a44a63733.jpg)
 
 1. The user navigates to the site and provides the required input factors.
 2. Node RED dashboard access the end point of AutoAI experiment model to provide the predictive results.
