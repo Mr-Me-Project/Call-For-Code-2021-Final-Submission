@@ -115,11 +115,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
-</a>
+![Christy Nachiar-Photo](https://user-images.githubusercontent.com/87765430/127739601-4d74aa84-013e-4b31-94f9-364d3f120554.jpg)
 
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
 
 ## License
 
