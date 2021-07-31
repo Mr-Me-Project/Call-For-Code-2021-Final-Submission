@@ -50,11 +50,11 @@ Global data storage, retrival and predictive analysis is best done with Open sou
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+Every entity on Earth participating in carbon emission is equally responsible for its reduction towards net zero for a safe planet with favourable climatic condition ensured to every species on Earth.
 
 ## Demo video
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+https://youtu.be/irkRMdwoeeE
 
 ## The architecture
 
