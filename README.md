@@ -1,10 +1,10 @@
-# Submission or project name
+# Mr ME 
+Me responsible. Mother Earth
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/get-started/) [![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
 
 A basic GitHub repository example for new [Call for Code](https://developer.ibm.com/callforcode/) projects and those that join the Call for Code with The Linux Foundation deployment initiative. Not all sections or files are required. You can make this as simple or as in-depth as you need. And don't forget to [register for Call for Code 2021](https://developer.ibm.com/callforcode/get-started/)!
 
-> If you're new to open source, please consider taking the [free "Introduction to Open Source" class](https://cognitiveclass.ai/courses/introduction-to-open-source).
 
 _Read this in other languages: [English](README.md), [한국어](./docs/README.ko.md), [português](./docs/README.pt_br.md)._
 
@@ -30,14 +30,23 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
   - [Acknowledgments](#acknowledgments)
 
 ## Short description
+Me, responsible for zero carbon in 2050, saving Mother Earth.
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, keeping them engaged, entertained, and on top of their education is important.
+    Carbon emission plays a major role in global warming which in turn results in climate change. Global data has proved this and we are experiencing in our daily life. Multiple carbon offset solutions are being proposed across the globe in resolving this  rapid increase in carbon emission, since Industrial revolution. Global nations have pledged and started working hard towards net zero emission by 2050. 	
+    Trees play major role in absorbing carbon from atmosphere and storing carbon in soil, thus improving its fertility. Dense trees in forest also helps in seasonal monsoons that helps agriculture. Several studies prove that deforestation has played major role in climate change. For example, we living in Tamil Nadu observe several cyclones and failure of seasonal monsoon which has badly affected our agriculture due to deforestation in Western ghats.
+    Though Bhutan has already reached their net zero emission,the climate of Bhutan is greatly affected because of its neighbourhood countries like China and India, that are leading in carbon emission. The responsibility of planting trees must be met in where there is emission. Its easily understood that rather than planting trees in Bhutan, doing so in India and China will save Bhutan in turn. 
+    Several global and voluntary organizations have taken up responsibility in planting trees across nations. However, the planted tree count couldn’t match with the tremendous increase in carbon emission. Understanding the need of the time and the emergency, we propose this solution of 'Mr. Me', (Me responsible.Mother Earth) to distribute the responsibility of achieving net zero emission by 2050 to every individual and entity of our Earth. Me as individual person, family, factory, organization, institution, nation must be responsible for the count of trees associated with our own carbon emission. This technology solution implemented in Cloud with artificial intelligence and machine learning along with open source support will help in predicting and estimating the number of trees required to achieve net zero emission by 2050 by every individual entity on Earth by identifying the factors that are responsible for their carbon emission . 
+    This application will also help them in identifying their major source of carbon emission and hence can inspire them in considerable reduction in usage of carbon emission factors like food consumption especially beef, flights, fuel vehicles, products associated with fossil fuel usage etc. Responsibility to take care of our own tree count will be cost effective and easily realizable solution. Its scalable and implementable by every Government across the Globe according to their jurisdiction.
+    A simple analogy could be that every nation has ‘tax collection’ enforced throughout nation and so can be a ‘tree plantation’ enforced as the responsibility of citizens. Every carbon emission contributor must realize their responsibility in planting trees along with reducing their carbon emission factor working towards their net zero emission. This will help us achieve global results faster.
+Me, responsible for zero carbon in 2050, saving Mother Earth. 
+
+{480 words}
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+Global data storage, retrival and predictive analysis is best done with Open source and Cloud technology especially with artificial intelligence and machine learning.
 
 ### The idea
 
