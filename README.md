@@ -27,7 +27,7 @@
   - [Acknowledgments](#acknowledgments)
 
 ## Short description
-Me, responsible for zero carbon in 2050, saving Mother Earth.
+Me, responsible for zero carbon by 2050, saving Mother Earth.
 
 ### What's the problem? 
 
@@ -35,7 +35,7 @@ Me, responsible for zero carbon in 2050, saving Mother Earth.
 
 ### How can technology help?
 
-Global data storage, retrival and predictive analysis is best done with Open source and Cloud technology especially with artificial intelligence and machine learning.
+Global data storage, retrieval and predictive analysis are best done with Open source and Cloud technology especially with artificial intelligence and machine learning.
 
 ### The idea
 
@@ -50,8 +50,8 @@ https://youtu.be/irkRMdwoeeE
 ![Mr ME Architecture Diagram](https://user-images.githubusercontent.com/87765430/127738448-e83afdbe-7d18-447c-9922-17d77ff800a4.png)
 
 1. The user navigates to the site and provides the required input factors.
-2. Node RED dashboard access the end point of AutoAI experiment model provides the predictive results.
-3. IBM Watson assistant chatbot with Discovery helps the user in guiding through the application as well as retrieve real time data from web.
+2. Node RED dashboard access the end point of AutoAI experiment model to provide the predictive results.
+3. IBM Watson assistant chatbot with Discovery helps the user in guiding through the application as well as retrieves real time data from web.
 4. The app stores and retrieves the data in Cloud Object Storage.
 
 ## Long description
@@ -73,7 +73,7 @@ The project currently does the following things.
 - Feature 1 : Mr.ME dashboard implemented in Node RED shows the data retreived from AutoAI experiment model.
 - Feature 2 : Mr.ME chatbot implemented in Watson assistant guides the user with application details.
 
-It's in a free tier IBM Cloud Iot platform with limited features. In the future we plan to implement with Global real time data with more features, for example, access real time data in Bot with IBm Discovery; Consider several features in determination of carbon emission for all Global entities.
+It's in a free tier IBM Cloud Iot platform with limited features. In the future we plan to implement with Global real time data with more features, for example, access real time data in Bot with IBM Discovery; Consider several features in determination of carbon emission for all Global entities.
 
 See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
