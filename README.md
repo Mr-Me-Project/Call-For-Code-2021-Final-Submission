@@ -58,11 +58,12 @@ https://youtu.be/irkRMdwoeeE
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![Mr ME Architecture Diagram](https://user-images.githubusercontent.com/87765430/127738448-e83afdbe-7d18-447c-9922-17d77ff800a4.png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
+
+1. The user navigates to the site and provides the required input factors.
+2. Node RED dashboard access the end point of AutoAI experiment model provides the predictive results.
+3. IBM Watson assistant chatbot with Discovery helps the user in guiding through the application .
 4. The app stores the translated text as a document within Object Storage.
 
 ## Long description
