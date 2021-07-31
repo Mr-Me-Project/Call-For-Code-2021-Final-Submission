@@ -1,5 +1,6 @@
 # Mr ME 
-Me responsible. Mother Earth
+Me responsible. Mother Earth ![Mr ME Logo](https://user-images.githubusercontent.com/87765430/127739657-5b408991-5125-4de9-937b-91d25793f37e.jpeg)
+
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/get-started/) [![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
 
