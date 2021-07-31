@@ -84,24 +84,26 @@ See below for our proposed schedule on next steps after Call for Code 2021 submi
 
 ## Getting started
 
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
-
-- [sample-react-app](./sample-react-app/)
-- [sample-angular-app](./sample-angular-app/)
-- [Explore other projects](https://github.com/upkarlidder/ibmhacks)
+The project solution is implemented with IBM Cloud resources like IBM Watson studio, IBM Iot Platform, IBM Watson Assistant, Node RED with services like Cloudant, Machine learning instance, AutoAI experiment model, Cloud function, Cloud storage object, API access, etc.
 
 ## Live demo
 
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
+You can find a running system to test at:
+Mr.ME Dashboard:
+https://node-red-yaose-2021-07-26.mybluemix.net/ui/#!/0?socketid=NHfDi4qi80NartbRAABA
+
+Mr.ME bot Assistant:
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=3fe0600f-d396-4421-bad4-9dfb86e86988&serviceInstanceID=daacb43e-fcad-462c-af79-58ea9c122129
 
 ## Built with
-
-- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-- [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Maven](https://maven.apache.org/) - Dependency management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+IBM Watson Studio & Node RED:
+![Node RED UI Design](https://user-images.githubusercontent.com/87765430/127739411-01001824-796b-4fa5-9cf8-7266ec0504fa.png)
+- IBM Cloudant
+- IBM Cloud functions
+- IBM API connect
+- 
+- IBM Watson Assistant
+![image](https://user-images.githubusercontent.com/87765430/127739446-25c1ea54-922e-4fae-b945-5dc5b5dd0ea8.png)
 
 ## Contributing
 
