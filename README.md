@@ -84,7 +84,7 @@ See below for our proposed schedule on next steps after Call for Code 2021 submi
 The project solution is implemented with IBM Cloud resources like IBM Watson studio, IBM Iot Platform, IBM Watson Assistant, Node RED with services like Cloudant, Machine learning instance, AutoAI experiment model, Cloud function, Cloud storage object, API access, etc.
 
 Working Prototype Model:
-![Prototype Deployment](https://user-images.githubusercontent.com/87765430/127739934-095c2d51-e1c3-47d3-ac4b-277edb52cfd5.png)
+![Mr ME - Working Prototype](https://user-images.githubusercontent.com/87765430/127739998-3db402c0-0279-4ce7-b20d-fde77c06b399.jpeg)
 
 ## Live demo
 
