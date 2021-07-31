@@ -5,11 +5,6 @@
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/get-started/) [![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
 
-A basic GitHub repository example for new [Call for Code](https://developer.ibm.com/callforcode/) projects and those that join the Call for Code with The Linux Foundation deployment initiative. Not all sections or files are required. You can make this as simple or as in-depth as you need. And don't forget to [register for Call for Code 2021](https://developer.ibm.com/callforcode/get-started/)!
-
-
-_Read this in other languages: [English](README.md), [한국어](./docs/README.ko.md), [português](./docs/README.pt_br.md)._
-
 ## Contents
 
 - [Submission or project name](#submission-or-project-name)
@@ -103,7 +98,9 @@ IBM Watson Studio & Node RED:
 - IBM Cloudant
 - IBM Cloud functions
 - IBM API connect
-- 
+
+![Resources Used](https://user-images.githubusercontent.com/87765430/127739771-f3453d95-5625-4860-b230-90633e7677aa.png)
+
 - IBM Watson Assistant
 ![image](https://user-images.githubusercontent.com/87765430/127739446-25c1ea54-922e-4fae-b945-5dc5b5dd0ea8.png)
 
