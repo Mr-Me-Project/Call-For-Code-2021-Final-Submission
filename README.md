@@ -60,25 +60,23 @@ https://youtu.be/irkRMdwoeeE
 
 ![Mr ME Architecture Diagram](https://user-images.githubusercontent.com/87765430/127738448-e83afdbe-7d18-447c-9922-17d77ff800a4.png)
 
-
 1. The user navigates to the site and provides the required input factors.
 2. Node RED dashboard access the end point of AutoAI experiment model provides the predictive results.
-3. IBM Watson assistant chatbot with Discovery helps the user in guiding through the application .
-4. The app stores the translated text as a document within Object Storage.
+3. IBM Watson assistant chatbot with Discovery helps the user in guiding through the application as well as retrieve real time data from web.
+4. The app stores and retrieves the data in Cloud Object Storage.
 
 ## Long description
 
-[More detail is available here](./docs/DESCRIPTION.md)
+
 
 ## Project roadmap
 
 The project currently does the following things.
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Feature 1 : Mr.ME dashboard implemented in Node RED shows the data retreived from AutoAI experiment model.
+- Feature 2 : Mr.ME chatbot implemented in Watson assistant guides the user with application details.
 
-It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
+It's in a free tier IBM Cloud Iot platform with limites features. In the future we plan to , for example.
 
 See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
